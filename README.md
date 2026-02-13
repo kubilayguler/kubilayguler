@@ -1,6 +1,10 @@
-<h1 align="center">Hello there! </h1>
+<h3 align="center">Hello there! 👋</h3>
 
-<h2 align="center"> I am a **Computer Engineering** student at Konya Technical University, deeply interested in building scalable systems and AI-driven solutions. My background includes **Full-Stack Development** and leading technical teams in the **Startup** ecosystem. </h2>
+<p align="center">
+  I am a <strong>Computer Engineering</strong> student at Konya Technical University, deeply interested in building scalable systems and AI-driven solutions.
+  <br>
+  My background includes <strong>Full-Stack Development</strong> and leading technical teams in the <strong>Startup</strong> ecosystem.
+</p>
 
 ###
 
